@@ -321,6 +321,3 @@ summary(Multiple_BMXARML)
 round(confint(Multiple_BMXARML), 2)
 ```
 
-## References
-
-<div id="refs"></div>

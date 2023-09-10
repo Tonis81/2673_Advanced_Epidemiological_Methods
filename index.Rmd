@@ -247,7 +247,3 @@ plot(fit)
 ```
 
 Los supuestos del modelo parecen estar bien satisfechos, con la excepción de que Nevada es un valor atípico.
-
-## Referencias
-
-<div id="refs"></div>
